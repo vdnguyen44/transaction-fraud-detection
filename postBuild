@@ -1,2 +1,2 @@
-wget -q -O fraudTest.csv https://www.kaggle.com/kartik2112/fraud-detection
+wget -q -O fraudTest.csv https://www.kaggle.com/kartik2112/fraud-detection/fraudTest.csv
 jupyter nbextension enable --py widgetsnbextension
