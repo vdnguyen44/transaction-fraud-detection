@@ -10,4 +10,5 @@ dependencies:
   - imbalanced-learn
   - plotly
   - ipywidgets
+  - ipython
 prefix: C:\Users\Vincent\Projects\transaction-fraud-detection\env
