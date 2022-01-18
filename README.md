@@ -21,5 +21,5 @@ To view the full notebook, please complete the following steps:
   - IPython
   - Joblib
 5. The files in this repository should then be moved to the root directory of the project folder
-6. Navigate to the jupyter notebook file and run all cells
+6. Open the jupyter notebook file and run all cells
 7. Enter values in the input widgets, and press the predict button to view the model's outcome
